@@ -12,14 +12,12 @@
     "url": "git+https://github.com/ipfs-shipyard/js-ipid-did-resolver.git"
   },
   "keywords": [
-    "idm",
-    "client",
-    "dapps",
-    "authentication",
-    "authenticate",
-    "sign",
-    "signing",
-    "sso"
+    "did",
+    "resolver",
+    "ipid",
+    "ipfs",
+    "ipns",
+    "ipld"
   ],
   "bugs": {
     "url": "https://github.com/ipfs-shipyard/js-ipid-did-resolver/issues"
