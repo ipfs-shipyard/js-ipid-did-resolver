@@ -1,6 +1,6 @@
 {
   "name": "ipid-did-resolver",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "IPID resolver to be used with the generic did-resolver package",
   "main": "lib/index.js",
   "module": "es/index.js",
