@@ -65,6 +65,7 @@
     "babel-jest": "^24.5.0",
     "babel-preset-moxy": "^3.0.4",
     "commitlint": "^8.0.0",
+    "did-resolver": "0.0.6",
     "eslint": "^5.13.0",
     "eslint-config-moxy": "^7.0.1",
     "husky": "^2.1.0",
