@@ -1,0 +1,10 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## 0.1.0 (2019-06-11)
+
+
+### Features
+
+* initial commit ([f1a2421](https://github.com/ipfs-shipyard/js-ipid-did-resolver/commit/f1a2421))
